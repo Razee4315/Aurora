@@ -1,6 +1,5 @@
 # Aurora - Modern Web Experience
 
-![Aurora Banner](frontend/public/aurora-banner.png)
 
 A sophisticated and modern web application that combines elegant design with powerful functionality. Aurora delivers an immersive digital experience with smooth animations, interactive elements, and a user-centric design approach.
 
@@ -73,7 +72,7 @@ backend/
 
 ## 👨‍💻 Developer
 
-**Saqlain Raza**
+**Saqlain Abbas**
 - Email: saqlainrazee@gmail.com
 - GitHub: [Razee4315](https://github.com/Razee4315)
 - LinkedIn: [saqlainrazee](https://www.linkedin.com/in/saqlainrazee)
@@ -83,4 +82,5 @@ backend/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Made with ❤️ by Saqlain Raza
+Made with ❤️ by Saqlain Abbas
+
